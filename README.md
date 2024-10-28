@@ -1,2 +1,2 @@
 # rushi-s
-rushi-s repository for github tutorial
+rushi-s repository for CG
